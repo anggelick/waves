@@ -1,0 +1,14 @@
+.waves-1 {
+  background: #081315;
+  color: white;
+  text-align: center;
+  padding: 5vw;
+  position: relative;
+}
+.waves-1 .logo {
+  position: absolute;
+}
+.waves-1 .logo svg {
+  width: 100%;
+  margin: auto;
+}
